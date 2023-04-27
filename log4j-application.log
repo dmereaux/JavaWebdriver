@@ -1,0 +1,20 @@
+2022-04-20 21:27:26 INFO  prestashopTest:118 - Etape 1 : aller sur le site
+2022-04-20 21:27:28 INFO  prestashopTest:121 - Etape 2 : accepter la modale
+2022-04-20 21:27:33 INFO  prestashopTest:124 - Etape 3 : aller sur la frame
+2022-04-20 21:27:33 WARN  prestashopTest:125 - This is warn : 
+2022-04-20 21:28:24 INFO  prestashopTest:118 - Etape 1 : aller sur le site
+2022-04-20 21:28:25 INFO  prestashopTest:121 - Etape 2 : accepter la modale
+2022-04-20 21:28:31 INFO  prestashopTest:124 - Etape 3 : aller sur la frame
+2022-04-20 21:28:31 WARN  prestashopTest:125 - This is warn : 
+2022-04-20 21:31:47 INFO  prestashopTest:115 - Etape 1 : aller sur le site
+2022-04-20 21:31:48 INFO  prestashopTest:118 - Etape 2 : accepter la modale
+2022-04-20 21:31:54 INFO  prestashopTest:121 - Etape 3 : aller sur la frame
+2022-04-20 21:31:54 WARN  prestashopTest:122 - This is warn : 
+2022-04-20 21:34:16 INFO  prestashopTest:115 - Etape 1 : aller sur le site
+2022-04-20 21:34:18 INFO  prestashopTest:118 - Etape 2 : accepter la modale
+2022-04-20 21:34:23 INFO  prestashopTest:121 - Etape 3 : aller sur la frame
+2022-04-20 21:34:23 WARN  prestashopTest:122 - This is warn : 
+2022-11-13 22:21:50 INFO  prestashopTest:113 - Etape 1 : aller sur le site
+2022-11-13 22:21:51 INFO  prestashopTest:116 - Etape 2 : accepter la modale
+2022-11-13 22:21:57 INFO  prestashopTest:119 - Etape 3 : aller sur la frame
+2022-11-13 22:21:57 WARN  prestashopTest:120 - This is warn : 
