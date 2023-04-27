@@ -38,7 +38,7 @@ public class testParametre{
  
 // les jeux de donnees sont crees a partir d un fichier XML 
 	@Parameters public static Collection<Object[]> val() {
-		return Arrays.asList(new Object[][] {{},{}});
+		return Arrays.asList(new Object[][] {{"MUG","There are 5 products"},{"Mug","There are 5 products"}});
 	}
 // les variables doivent respectees l'ordre dans la collection
   public testParametre(String motLocal, String resultatLocal)
